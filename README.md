@@ -2,7 +2,7 @@
 
 <p align="center">Hello World👋, I’m Siyabulela Biyo, username @SaapsYolo <br>
 👀 I’m interested in Full-stack Software Development/Engineering junior position role <br>
-🌱 I’m currently in my 4th year of studies in Information Technology (Advanced Diploma) <br>
+🌱 I recently completed my Advanced Diploma in Information Technology <br>
 💞️ I’m looking to collaborate on building software solutions and web apps <br>
 📫 You can reach out on my social media platforms below </p>
 
